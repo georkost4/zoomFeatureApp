@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
             val openCamIntent = Intent()
             openCamIntent.action = MediaStore.ACTION_IMAGE_CAPTURE
 
-            createImageFile()
+//            createImageFile()
         }
     }
 }
